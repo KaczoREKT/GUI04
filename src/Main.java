@@ -1,5 +1,8 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello, World!");
+        Car car1 = new Car("CingCiong", "Onguang", 2018);
+        Car car2 = new Car("CingCiong", "Onguang", 2018);
+        CarRegister cr = new CarRegister()
     }
+
 }
